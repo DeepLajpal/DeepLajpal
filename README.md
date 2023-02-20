@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deep Lajpal</h1>
 
-<h3 align="center">I always strive to enhance my abilities through the incorporation of cutting-edge technology.</h3>
+<h3 align="center">Passionate Tech-Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanlajpal&label=Profile%20views&color=0e75b6&style=flat" alt="amanlajpal" /> </p>
 
