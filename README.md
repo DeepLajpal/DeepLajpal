@@ -1,7 +1,3 @@
-### Hi 👋, I'm Deep Lajpal
-
-<!--
-**DeepLajpal/DeepLajpal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeplajpal&label=Profile%20views&color=ecdb18&style=flat" alt="deeplajpal" /> </p>
