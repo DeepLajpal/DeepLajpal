@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeplajpal&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="deeplajpal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deeplajpal&show_icons=true&locale=en" alt="deeplajpal" /></p>
+
 
 
