@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanlajpal&label=Profile%20views&color=0e75b6&style=flat" alt="amanlajpal" /> </p>
 
-- 験 I窶冦 currently learning **NodeJS, ExpressJS, ReactJS, AWS, etc**
+- currently learning **NodeJS, ExpressJS, ReactJS, AWS, etc**
 
-- 町 Ask me about **Javascript, C++, HTML & CSS, etc**
+- Ask me about **Javascript, C++, HTML & CSS, etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
